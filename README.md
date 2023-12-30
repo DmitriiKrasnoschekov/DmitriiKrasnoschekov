@@ -3,4 +3,6 @@
 
 - 💼 Business Intelligence Analyst at [Rostelecom](https://www.linkedin.com/company/rostelecom)
 
+- 🌍 Located at St. Petersburg, Russia
+
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/dmitrii-krasnoshchekov/)
