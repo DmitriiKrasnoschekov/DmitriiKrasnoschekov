@@ -11,31 +11,31 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#DmitriiKrasnoschekov">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" width="48" height="48" alt="Power BI" />
       </a>
       <br>Power BI
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#DmitriiKrasnoschekov">
         <img src="https://www.cloudron.io/store/social-icons/org.apache.superset.cloudronapp.png" width="48" height="48" alt="Python" />
       </a>
       <br>Superset
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#DmitriiKrasnoschekov">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" width="48" height="48" alt="PostgreSQL" />
       </a>
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#DmitriiKrasnoschekov">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="#DmitriiKrasnoschekov" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" width="48" height="48" alt="Photoshop" />
       </a>
       <br>Photoshop
