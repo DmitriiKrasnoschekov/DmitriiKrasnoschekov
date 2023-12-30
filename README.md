@@ -7,8 +7,6 @@
 
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/dmitrii-krasnoshchekov/)
 
-> Tools, languages, and other things that I like to work with.
-
 <table>
   <tr>
     <td align="center" width="96">
