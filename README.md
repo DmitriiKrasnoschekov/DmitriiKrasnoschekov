@@ -17,7 +17,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://repository-images.githubusercontent.com/39464018/58649580-eca4-11ea-844d-c2ddca24b226" width="48" height="48" alt="Python" />
+        <img src="https://www.cloudron.io/store/social-icons/org.apache.superset.cloudronapp.png" width="48" height="48" alt="Python" />
       </a>
       <br>Superset
     </td>
