@@ -5,6 +5,8 @@
 
 - 🌍 Located at St. Petersburg, Russia
 
+- 🎓 Studying at [Unecon](https://en.unecon.ru/)
+
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/dmitrii-krasnoshchekov/)
 
 
