@@ -9,7 +9,7 @@
 
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/dmitrii-krasnoshchekov/)
 
-
+- 
 <table>
   <tr>
     <td align="center" width="96">
