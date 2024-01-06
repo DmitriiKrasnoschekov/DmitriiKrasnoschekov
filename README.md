@@ -34,7 +34,7 @@
       <a href="#DmitriiKrasnoschekov">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
       </a>
-      <br>Python
+      <br>Python (Data Analysis Libraries)
     </td>
     <td align="center" width="96">
       <a href="#DmitriiKrasnoschekov" >
