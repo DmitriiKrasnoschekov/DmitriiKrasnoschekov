@@ -42,5 +42,11 @@
       </a>
       <br>Photoshop
     </td>
+        <td align="center" width="96">
+      <a href="#DmitriiKrasnoschekov" >
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/dremio_logo_icon_168234.png" width="48" height="48" alt="Dremio" />
+      </a>
+      <br>Dremio
+    </td>
   </tr>
 </table>
