@@ -28,13 +28,13 @@
       <a href="#DmitriiKrasnoschekov">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" width="48" height="48" alt="PostgreSQL" />
       </a>
-      <br>PostgreSQL (DML)
+      <br>PostgreSQL
     </td>
     <td align="center" width="96">
       <a href="#DmitriiKrasnoschekov">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
       </a>
-      <br>Python (DA)
+      <br>Python
     </td>
     <td align="center" width="96">
       <a href="#DmitriiKrasnoschekov" >
